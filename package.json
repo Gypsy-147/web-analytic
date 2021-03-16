@@ -1,0 +1,19 @@
+{
+  "name": "web-analytic",
+  "version": "1.0.0",
+  "description": "",
+  "main": "analytic.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gypsy-147/web-analytic.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gypsy-147/web-analytic/issues"
+  },
+  "homepage": "https://github.com/Gypsy-147/web-analytic#readme"
+}

@@ -1,5 +1,12 @@
 try {
 	!(function(i, s, o, g, r, a, m) {
+    console.log('i',i);
+    console.log('s',s);
+    console.log('o',o);
+    console.log('g',g);
+    console.log('r',r);
+    console.log('a',a);
+    console.log('m',m);
     if (!!i.ba) return
     r = i.ba = function() {
       ;(r.queue = r.queue || []).push(arguments)
