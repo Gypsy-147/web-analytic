@@ -15,7 +15,7 @@ try {
     a.async = 1
     a.src = g
     m.parentNode.insertBefore(a, m)
-  })(window, document, "script", "http://192.168.253.68/api/v1/sqa.js") 
+  })(window, document, "script", "http://192.168.253.68:3000/api/v1/sqa.js") 
   ba("init", "123-456-789")
   ba("sendPageview")
 } catch (e) {
